@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 
 <!--
 **lmsu/lmsu** es un ✨ repositorio _especial_ ✨ porque su 'README.md' 
